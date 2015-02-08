@@ -9,5 +9,6 @@ namespace VSRepositoryDemo
     public class Class1
     {
         //changes on the main branch from vs 
+        //v1.1 changes
     }
 }
