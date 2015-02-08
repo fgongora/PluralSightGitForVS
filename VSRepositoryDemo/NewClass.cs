@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace VSRepositoryDemo
 {
-    public class Class1
+    class NewClass
     {
-        //changes on the main branch from vs 
     }
 }
