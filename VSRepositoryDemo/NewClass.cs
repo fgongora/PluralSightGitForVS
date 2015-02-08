@@ -9,5 +9,7 @@ namespace VSRepositoryDemo
     class NewClass
     {
         //additional 1.1 changes
+
+        //adding feature 1.2
     }
 }

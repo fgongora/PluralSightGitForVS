@@ -10,5 +10,7 @@ namespace VSRepositoryDemo
     {
         //changes on the main branch from vs 
         //v1.1 changes
+
+        //adding feature 1.2
     }
 }
