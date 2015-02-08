@@ -10,10 +10,8 @@ namespace VSRepositoryDemo
     {
         //changes on the main branch from vs 
         //v1.1 changes
-        //no tengo nada de feature 1.2
 
-        //change master
-
+        //adding feature 1.2 mas
 
     }
 }
