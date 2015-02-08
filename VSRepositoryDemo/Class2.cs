@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace VSRepositoryDemo
 {
-    class NewClass
+    class Class2
     {
-        //additional 1.1 changes
+        //working on feature 1.2
 
-        //adding feature 1.2
     }
 }
