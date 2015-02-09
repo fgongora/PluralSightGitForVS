@@ -27,6 +27,10 @@ namespace VSRepositoryDemo
         //three changes
         //one more change
 
+        //feature 1.6 change
+
+        
+
 
     }
 }
